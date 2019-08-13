@@ -80,4 +80,4 @@ QQ(TIM)、微信二维码
 <img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/weixin.jpg?raw=true" width="30%" height="30%" /><img src="https://github.com/jaredtao/jaredtao.github.io/blob/master/img/zhifubao.jpg?raw=true" width="30%" height="30%" />
 
 ###### 觉得分享的内容还不错, 就请作者喝杯奶茶吧~~
-***
+*** 
